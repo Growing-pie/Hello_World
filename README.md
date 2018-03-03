@@ -1,3 +1,2 @@
 # Hello_World
-First
-Hello there, Growing pie is working hard on data.
+Hello there, Growing pie is here for data analysis.
